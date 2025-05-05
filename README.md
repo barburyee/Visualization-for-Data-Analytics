@@ -9,8 +9,9 @@ School: Computer Science and Mathematics
 University: Keele University
 
 Team: Nickson Masikonte, Juma Abubakar Ndetta, 
-Fani Jamal Mzee, and Job Kimeli,
+Fani Jamal Mzee, and Job Kimeli
 
 
 Dataset Source: Kaggle (https://www.kaggle.com/datasets/adilshamim8/college-scorecard) 
+
 Github Link: https://github.com/barburyee/Visualization-for-Data-Analytics
